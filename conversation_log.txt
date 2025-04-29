@@ -1,0 +1,6 @@
+You: hii
+AI: An error occurred: partially initialized module 'openai' has no attribute 'ChatCompletion' (most likely due to a circular import)
+
+You: tell me about  yourself
+AI: An error occurred: partially initialized module 'openai' has no attribute 'ChatCompletion' (most likely due to a circular import)
+
